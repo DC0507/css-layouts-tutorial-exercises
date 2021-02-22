@@ -1,12 +1,19 @@
 body {
 	margin: 0;
 }
+#wrapper {
+	display: flex;
+}
 #sectionA {
 	background: blue;
+	width: 33.33%;
 }
 #sectionB {
 	background: red;
 }
 #sectionC {
 	background: green;
+}
+.threecol {
+	width: 33.33%;
 }

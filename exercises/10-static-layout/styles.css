@@ -1,5 +1,20 @@
 /* your code here */
+header,
+nav,
+section,
+.wrapper {
+	margin: 15px;
+}
 
+nav {
+	width: 21%;
+	float: left;
+}
+
+section {
+	width: 75%;
+	float: right;
+}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
